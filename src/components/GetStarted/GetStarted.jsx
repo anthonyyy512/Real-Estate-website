@@ -7,12 +7,12 @@ const GetStarted = () => {
         <div className="flexColCenter inner-container">
           <span className="primaryText">Get started with Homyz</span>
           <span className="secondaryText">
-            Subscribe and find super attractive price quotes from us.
+            Join our community,and find your dream place
             <br />
-            Find your residence soon
+            Easy,simple and fast.
           </span>
           <button className="button" href>
-            <a href="mailto:zainkeepscode@gmail.com">Get Started</a>
+            <a href="mailto:antony.nicolas@hotmail.com">Get Started</a>
           </button>
         </div>
       </div>

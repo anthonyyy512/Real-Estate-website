@@ -29,14 +29,14 @@ const Value = () => {
 
         {/* right */}
         <div className="flexColStart v-right">
-          <span className="orangeText">Our Value</span>
+          <span className="orangeText">Our Values</span>
 
-          <span className="primaryText">Value We Give to You</span>
+          <span className="primaryText">Client satisfaction is mandatory</span>
 
           <span className="secondaryText">
-            We always ready to help by providijng the best services for you.
+            We are always ready to help anytime,anywhere!
             <br />
-            We beleive a good blace to live can make your life better
+            Nothing feels like home,so we make sure you're in yours
           </span>
 
           <Accordion
